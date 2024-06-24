@@ -1,0 +1,6 @@
+s1 = input()
+s2 = input()
+s3 = input()
+s4 = input()
+s5 = input()
+print(s1, s2, s3, s4, s5, sep = '=>')
