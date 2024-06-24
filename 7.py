@@ -11,4 +11,3 @@ elif (a + b) >= x and a < x and b < x:
     print(1)
 else:
     print(0)
-1
